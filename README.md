@@ -20,7 +20,7 @@ A Telegram bot token (get it from BotFather)
 An API key from OpenWeather
 
 2️⃣ Clone the Repository
-git clone https://github.com/yourusername/telegram-weather-bot.git
+git clone https://github.com/NabievaUlzhan/weather
 cd telegram-weather-bot
 
 3️⃣ Install Dependencies
