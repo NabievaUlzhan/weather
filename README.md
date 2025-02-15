@@ -6,9 +6,9 @@ This is a Telegram bot built using Aiogram that provides weather updates based o
 1. Features:
 
 - Get weather updates for any selected city
-- Supports multiple languages (English, Russian, Kazakh)
+- Supports multiple languages (English, Russian, Korean)
 - Choose temperature unit (Celsius, Fahrenheit, Kelvin)
-- Daily weather reminders at 10:00 AM
+- Daily weather reminders at 8:00 AM
 - Interactive menu for easy setup
 
 2. Setup Instructions
