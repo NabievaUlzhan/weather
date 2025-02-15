@@ -32,7 +32,7 @@ BOT_TOKEN=your_telegram_bot_token
 API_KEY=your_openweather_api_key
 
 5️⃣ Run the Bot
-python bot.py
+python main.py
 
 3. Bot Commands
 
