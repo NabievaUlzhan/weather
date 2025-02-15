@@ -21,7 +21,6 @@ An API key from OpenWeather
 
 2️⃣ Clone the Repository
 git clone https://github.com/NabievaUlzhan/weather
-cd telegram-weather-bot
 
 3️⃣ Install Dependencies
 pip install aiogram python-dotenv requests
